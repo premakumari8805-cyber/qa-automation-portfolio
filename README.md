@@ -6,3 +6,8 @@ Tech: Selenium WebDriver, C#, NUnit/xUnit
 Features: Login, product search, add to cart, checkout, order history
 Patterns: Page Object Model, data-driven tests, environment-specific configs
 Outputs: HTML/Allure reports, screenshots on failure
+
+
+selenium-ui-tests
+playwright-e2e
+jmeter-performance-suite)
